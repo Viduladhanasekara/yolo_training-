@@ -1,0 +1,8 @@
+streamlit
+djitellopy
+ultralytics
+opencv-python
+numpy
+pymongo
+mysql-connector-python
+python-dotenv
