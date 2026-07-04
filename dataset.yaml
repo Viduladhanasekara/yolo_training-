@@ -1,0 +1,15 @@
+path: D:/Crack_defect_project/dataset
+
+train: images/train
+val: images/valid
+test: images/test
+
+names:
+  0: vertical_crack
+  1: horizontal_crack
+  2: diagonal_crack
+  3: spalling
+  4: void
+  5: exposed_rebar
+  6: seepage
+  7: surface_defect

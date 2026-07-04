@@ -1,0 +1,8 @@
+vertical_crack
+surface_defect
+void
+spalling
+diagonal_crack
+exposed_rebar
+horizontal_crack
+seepage
