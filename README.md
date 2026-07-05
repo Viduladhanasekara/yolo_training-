@@ -28,9 +28,9 @@ This system detects **8 types of concrete defects** from images or live drone vi
 
 <table>
   <tr>
-    <td align="center"><img src="docs/images/sample_spalling.jpg" width="280"/><br/><b>Spalling Detection</b></td>
-    <td align="center"><img src="docs/images/sample_vertical.jpg" width="280"/><br/><b>Vertical Crack Detection</b></td>
-    <td align="center"><img src="docs/images/sample_diagonal.jpg" width="280"/><br/><b>Diagonal Crack Detection</b></td>
+    <td align="center"><img src="docs/images/sample_spalling.jpg" width="280"/><br/><b>Spalling Detection (0.46)</b></td>
+    <td align="center"><img src="docs/images/sample_spalling2.jpg" width="280"/><br/><b>Spalling Detection (0.42)</b></td>
+    <td align="center"><img src="docs/images/sample_vertical.jpg" width="280"/><br/><b>Vertical Crack Detection (0.55)</b></td>
   </tr>
 </table>
 
