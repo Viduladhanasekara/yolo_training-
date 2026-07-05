@@ -1,9 +1,9 @@
 
-<img src="docs/images/banner.png" alt="Concrete Crack & Defect Detection System" width="100%"/>
+<img src="docs/images/banner.png" alt="Real-Time Crack Detection System" width="100%"/>
 
-# 🏗️ Concrete Crack & Defect Detection System
+# 🏗️ Real-Time Crack Detection System
 
-A **YOLOv8-powered** deep learning system for real-time detection of concrete surface defects — built for drone-based structural inspection.
+A **YOLOv8-powered** deep learning system for **real-time detection** of concrete surface defects — built for drone-based structural inspection.
 
 ---
 
